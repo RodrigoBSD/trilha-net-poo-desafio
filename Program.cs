@@ -13,5 +13,5 @@ Console.WriteLine("");
 Iphone iphone = new Iphone("1195254658","Iphone 15","86724958357", 16);
 
 iphone.Ligar();
-iphone.InstalarAplicativo("Facebool");
+iphone.InstalarAplicativo("Facebook");
 iphone.ReceberLigacao();
